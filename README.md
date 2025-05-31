@@ -23,7 +23,7 @@ Ce projet vise à classifier des troubles neurodégénératifs (ALS, Parkinson, 
    - Fenêtrage glissant de 4s
 
 2. **Augmentation des données** :
-   - Utilisation de TCGAN (Time-series Conditional GAN)
+   - Utilisation de WGAN (Wasserstein GAN)
    - Génération ciblée de signaux pour les classes minoritaires
 
 3. **Classification** :
